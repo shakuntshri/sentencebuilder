@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Tap & Tell: Sentence Builder",
+    "slug": "tap-tell-sentence-builder",
+    "version": "0.1.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTabletOnly": false,
+      "bundleIdentifier": "com.tapandi.sentencebuilder"
+    },
+    "android": {
+      "package": "com.tapandi.sentencebuilder"
+    },
+    "scheme": "sentencebuilder",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "orientation": "portrait"
+  }
+}
